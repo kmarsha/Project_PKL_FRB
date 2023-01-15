@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/kmarsha-kasir--restoran-brown.svg)](https://github.com/kmarsha)
+[![Repository](https://img.shields.io/badge/kmarsha-electricity--report-blue.svg)](https://github.com/kmarsha)
 [![Status](https://img.shields.io/badge/status-closed-white.svg)]()
 
 </div>
