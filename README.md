@@ -85,17 +85,17 @@ Login with Role Teknisi
 !! Can't register
 
 ## 🌸 Preview <a name="preview"></a>
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page1.png">
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page2.png">
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page3.png">
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page4.png">
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page5.png">
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page6.png">
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page7.png">
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page8.png">
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page9.png">
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page10.png">
-<img src="https://github.com/kmarsha/electricity-report/blob/main/public/img/page11.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page1.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page2.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page3.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page4.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page5.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page6.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page7.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page8.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page9.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page10.png">
+<img src="https://github.com/muzalri/Project_PKL_FRB/blob/main/public/img/page11.png">
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
